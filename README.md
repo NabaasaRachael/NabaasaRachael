@@ -1,14 +1,16 @@
 <img src="https://live.staticflickr.com/65535/52988458396_239853529c_b.jpg" alt="banner" width="100%">
 <h2 style="color: blue"><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> Mai! What a beautiful day to write code.</h2> 
 
-<p>Software engineering newbie. Lover of JESUS, music and good company. Inspiring others through financial literacy and health.
+<p> I am a software engineering newbie, undergoing continuous training through boot camps. My passion for new knowledge is my daily motivation.
+  I love to Inspire others through financial literacy through the insights I have personally learned from the Straight Forward Financial Growth book and mastermind. Due to my medical background, I also give healthcare consultations. 
+  Hit me up for any of the above reasons and let's collaborate!
 </p>
 
 <b>A peek into my world</b>
 
 - 🔭 I’m currently working on an eCommerce
 - 🌱 I’m currently learning Javascript
-- ⚡ Fun fact: I was previously a doctor :shushing_face:  💬 Ask me about medical dramas
+- ⚡ Fun fact: I was previously a doctor :shushing_face:  💬 Ask me about medical dramas :smiley:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nabaasarachael) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nabaasarachelle) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/nabaasarachelle/) 
