@@ -1,5 +1,5 @@
 <img src="https://live.staticflickr.com/65535/52988458396_239853529c_b.jpg" alt="banner" width="100%">
-<h2 style="color: blue"><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> Mai! What a beautiful day to write code.</h2> 
+<h2 style="color: blue"><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> Mai! What a beautiful day to write code.</h2>
 
 <p> I am a software engineering newbie, undergoing continuous training through boot camps. My passion for new knowledge is my daily motivation.
   I love to Inspire others through financial literacy through the insights I have personally learned from the Straight Forward Financial Growth book and mastermind. Due to my medical background, I also give healthcare consultations. 
